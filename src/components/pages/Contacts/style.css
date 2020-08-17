@@ -1,0 +1,24 @@
+.contacts-wrapper {
+  width: 65%;
+  margin: 0 auto;
+  padding: 1.5rem;
+  border: 3px double var(--bg-primary);
+}
+.background {
+  background-image: radial-gradient(black, #131313);
+  height: 100vh;
+  margin-left: 5rem;
+}
+.title {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+@media only screen and (max-width: 576px) {
+  .contacts-wrapper {
+    width: 80%;
+  }
+  .background {
+    margin-left: 0;
+  }
+}

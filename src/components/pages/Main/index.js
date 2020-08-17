@@ -1,7 +1,7 @@
 import React from 'react';
-import ProfileWrapper from '../ProfileWrapper';
-import ProjectsSection from '../ProjectsSection';
-import Jumbotron from '../Jumbotron';
+import ProfileWrapper from '../../ProfileWrapper';
+import ProjectsSection from '../../ProjectsSection';
+import Jumbotron from '../../Jumbotron';
 import './style.css';
 
 export default function Container() {

@@ -20,6 +20,12 @@ export default function Nav() {
             linkName={link.linkName}
           />
         ))}
+        <li className='nav-bar-item'>
+          <a className='nav-bar-link' href='/contacts'>
+            <i className='far fa-envelope-open icon'></i>
+            <span className='link-text'>Contacts</span>
+          </a>
+        </li>
       </ul>
     </nav>
   );

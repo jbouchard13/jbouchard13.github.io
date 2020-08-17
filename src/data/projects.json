@@ -31,7 +31,7 @@
   },
   {
     "name": "Burger Logger",
-    "description": "A fun full stack app that allows users to add burgers they'd like to eat, and eat them when they choose to. Uses server side rendering for the HTML.",
+    "description": "A fun full stack app that allows users to add burgers they'd like to eat, and eat them when they choose to. Uses server side rendering with Handlebars for the HTML.",
     "role": "Full Stack Developer",
     "tech": "HTML, CSS, Javascript, Handlebars, Node, Express, MySQL with Sequelize",
     "github": "https://github.com/jbouchard13/node-burger-logger",

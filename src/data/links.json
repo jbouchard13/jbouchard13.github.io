@@ -13,10 +13,5 @@
     "linkRoute": "../../assets/pdfs/Resume-7-27-20.pdf",
     "icon": "fas fa-file icon",
     "linkName": "Resume"
-  },
-  {
-    "linkRoute": "/contacts",
-    "icon": "far fa-envelope-open icon",
-    "linkName": "Contacts"
   }
 ]

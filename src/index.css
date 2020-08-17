@@ -10,7 +10,7 @@
 
 body {
   color: white;
-  background: black;
+  background-image: radial-gradient(black, #131313);
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;

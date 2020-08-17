@@ -1,12 +1,17 @@
 import React from 'react';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Nav from './components/Nav';
-import Main from './components/Main';
+import Main from './components/pages/Main';
+import Contacts from './components/pages/Contacts';
 
 function App() {
   return (
     <div className='App'>
       <Nav />
-      <Main />
+      <Router>
+        <Route exact path='/' component={Main} />
+        <Route exact path='/contacts' component={Contacts} />
+      </Router>
     </div>
   );
 }
