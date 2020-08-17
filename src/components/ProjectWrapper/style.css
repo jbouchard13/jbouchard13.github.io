@@ -1,0 +1,4 @@
+.project-wrapper {
+  border-bottom: 3px double var(--bg-primary);
+  padding: 20px;
+}

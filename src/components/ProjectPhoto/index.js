@@ -1,9 +1,6 @@
 import React from 'react';
+import './style.css';
 
 export default function ProjectPhoto(props) {
-  return (
-    <div className='col-sm-4'>
-      <img href={props.projectImg} alt={props.projectText} />
-    </div>
-  );
+  return <img className='project-photo' src={props.img} alt={props.alt} />;
 }

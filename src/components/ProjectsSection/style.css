@@ -1,0 +1,15 @@
+.project-section-title {
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+  border-bottom: 3px double var(--bg-primary);
+}
+
+#projects {
+  border-bottom: 3px solid var(--bg-primary);
+  background-image: radial-gradient(black, #131313);
+}

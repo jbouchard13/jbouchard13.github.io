@@ -1,6 +1,7 @@
 .profile-wrapper {
   padding: 20px 10px 20px 10px;
   background-image: radial-gradient(black, #131313);
+  border-bottom: 3px double var(--bg-primary);
 }
 
 @media only screen and (max-width: 576px) {

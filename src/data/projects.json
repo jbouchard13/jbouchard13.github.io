@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Food Guru",
+    "description": "An app to help you find and keep track of recipes. Create your own account and save recipes to each day of the week. Also, all saved recipes for the week will have their ingredients added to the user's shopping list.",
+    "role": "Backend developer",
+    "tech": "HTML, CSS, Bootstrap, jQuery, Node, Express, MySQL with Sequelize, Passport.js for authentication",
+    "github": "https://github.com/gavinspotter/project2",
+    "deployed": "https://arcane-coast-86770.herokuapp.com/search",
+    "img": "../../assets/images/foodguru-ss-resize.png",
+    "alt": "food guru home page"
+  },
+  {
+    "name": "Employee Directory",
+    "description": "A small full stack app build with React, keep track of employees and add new ones to the database. Users can also sort the results by category alphabetically.",
+    "role": "Full Stack Developer",
+    "tech": "HTML, CSS, Bootstrap, React, Node, Express, MongoDB with Mongoose",
+    "github": "https://github.com/jbouchard13/react-employee-directory",
+    "deployed": "https://evening-headland-87761.herokuapp.com/",
+    "img": "../../assets/images/employee-ss-rezize.png",
+    "alt": "employee directory home page"
+  },
+  {
+    "name": "Fitness Tracker",
+    "description": "An app using a prebuilt frontend that required me to add a backend with Express and MongoDB. Users can create and add their own exercises and see their stats on the Dashboard page. The Dashboard page displays all of their info with stylized graphs.",
+    "role": "Backend developer",
+    "tech": "HTML, CSS, JavaScript, Node, Express, MongoDB with Mongoose",
+    "github": "https://github.com/jbouchard13/mongodb-fitness-tracker",
+    "deployed": "https://radiant-dawn-83466.herokuapp.com/",
+    "img": "../../assets/images/tracker-ss-resize.png",
+    "alt": "fitness tracker creating new exercise"
+  },
+  {
+    "name": "Burger Logger",
+    "description": "A fun full stack app that allows users to add burgers they'd like to eat, and eat them when they choose to. Uses server side rendering for the HTML.",
+    "role": "Full Stack Developer",
+    "tech": "HTML, CSS, Javascript, Handlebars, Node, Express, MySQL with Sequelize",
+    "github": "https://github.com/jbouchard13/node-burger-logger",
+    "deployed": "https://murmuring-sea-84963.herokuapp.com/",
+    "img": "../../assets/images/burger-ss-resize.png",
+    "alt": "burger logger home page"
+  }
+]
