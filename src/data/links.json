@@ -1,0 +1,22 @@
+[
+  {
+    "linkRoute": "https://github.com/jbouchard13",
+    "icon": "fab fa-github icon",
+    "linkName": "Github"
+  },
+  {
+    "linkRoute": "https://www.linkedin.com/in/johnbouchard94",
+    "icon": "fab fa-linkedin-in icon",
+    "linkName": "Linkedin"
+  },
+  {
+    "linkRoute": "../../assets/pdfs/Resume-7-27-20.pdf",
+    "icon": "fas fa-file icon",
+    "linkName": "Resume"
+  },
+  {
+    "linkRoute": "/contacts",
+    "icon": "far fa-envelope-open icon",
+    "linkName": "Contacts"
+  }
+]
