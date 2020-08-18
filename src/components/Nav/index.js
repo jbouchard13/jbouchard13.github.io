@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import links from '../../data/links.json';
 import NavLi from '../NavLi';
 import './style.css';
@@ -21,10 +22,10 @@ export default function Nav() {
           />
         ))}
         <li className='nav-bar-item'>
-          <a className='nav-bar-link' href='/contacts'>
+          <Link className='nav-bar-link' to='/contacts'>
             <i className='far fa-envelope-open icon'></i>
             <span className='link-text'>Contacts</span>
-          </a>
+          </Link>
         </li>
       </ul>
     </nav>

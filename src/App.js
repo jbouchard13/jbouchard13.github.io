@@ -7,8 +7,8 @@ import Contacts from './components/pages/Contacts';
 function App() {
   return (
     <div className='App'>
-      <Nav />
       <Router>
+        <Nav />
         <Route exact path='/' component={Main} />
         <Route exact path='/contacts' component={Contacts} />
       </Router>
