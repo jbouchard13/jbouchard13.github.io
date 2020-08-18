@@ -1,3 +1,3 @@
 # React Portfolio
 
-###[Link to page](https://jbouchard13.github.io)
+### [Link to the page](https://jbouchard13.github.io)
