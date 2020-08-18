@@ -9,10 +9,10 @@ export default function Nav() {
     <nav className='nav-bar'>
       <ul className='nav-bar-nav'>
         <li className='nav-logo'>
-          <a href='/' className='nav-bar-link'>
+          <Link to='/' className='nav-bar-link'>
             <span className='link-text logo-text'>Links</span>
             <i className='fas fa-angle-double-right logo-icon'></i>
-          </a>
+          </Link>
         </li>
         {links.map((link) => (
           <NavLi
