@@ -1,8 +1,18 @@
 [
   {
+    "name": "Kick-Tout",
+    "description": "An online marketplace where shoe lovers can buy, sell, and trade their shoes. Users can create an account, create unique posts, and interact with other user's posts.",
+    "role": "Full Stack Developer",
+    "tech": "HTML, CSS, Javascript, React, Node, Express, MySQL with Sequelize, Axios",
+    "github": "https://github.com/jbou",
+    "deployed": "https://kicktout.herokuapp.com/",
+    "img": "../../assets/images/kick-tout-resize.png",
+    "alt": "kick-tout home page"
+  },
+  {
     "name": "Food Guru",
     "description": "An app to help you find and keep track of recipes. Create your own account and save recipes to each day of the week. Also, all saved recipes for the week will have their ingredients added to the user's shopping list.",
-    "role": "Backend developer",
+    "role": "Full Stack Developer",
     "tech": "HTML, CSS, Bootstrap, jQuery, Node, Express, MySQL with Sequelize, Passport.js for authentication",
     "github": "https://github.com/gavinspotter/project2",
     "deployed": "https://arcane-coast-86770.herokuapp.com/search",
@@ -28,15 +38,5 @@
     "deployed": "https://radiant-dawn-83466.herokuapp.com/",
     "img": "../../assets/images/tracker-ss-resize.png",
     "alt": "fitness tracker creating new exercise"
-  },
-  {
-    "name": "Burger Logger",
-    "description": "A fun full stack app that allows users to add burgers they'd like to eat, and eat them when they choose to. Uses server side rendering with Handlebars for the HTML.",
-    "role": "Full Stack Developer",
-    "tech": "HTML, CSS, Javascript, Handlebars, Node, Express, MySQL with Sequelize",
-    "github": "https://github.com/jbouchard13/node-burger-logger",
-    "deployed": "https://murmuring-sea-84963.herokuapp.com/",
-    "img": "../../assets/images/burger-ss-resize.png",
-    "alt": "burger logger home page"
   }
 ]
