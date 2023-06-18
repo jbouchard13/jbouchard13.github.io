@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 :root {
   --text-primary: black;
@@ -13,7 +13,8 @@ body {
   background-image: radial-gradient(black, #131313);
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
+  width: 100%;
 }
 
 body::-webkit-scrollbar {

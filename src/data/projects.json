@@ -5,7 +5,7 @@
     "role": "Full Stack Developer",
     "tech": "HTML, CSS, Javascript, React, Node, Express, MySQL with Sequelize, Axios",
     "github": "https://github.com/jbou",
-    "deployed": "https://kicktout.herokuapp.com/",
+    "deployed": "https://kick-tout.up.railway.app/ ",
     "img": "../../assets/images/kick-tout-resize.png",
     "alt": "kick-tout home page"
   },
@@ -15,7 +15,7 @@
     "role": "Full Stack Developer",
     "tech": "HTML, CSS, Bootstrap, jQuery, Node, Express, MySQL with Sequelize, Passport.js for authentication",
     "github": "https://github.com/gavinspotter/project2",
-    "deployed": "https://arcane-coast-86770.herokuapp.com/search",
+    "deployed": "https://foodguru.up.railway.app/ ",
     "img": "../../assets/images/foodguru-ss-resize.png",
     "alt": "food guru home page"
   },
